@@ -1,0 +1,131 @@
+.nunito-sans-<nunito-sans> {
+  font-family: "Nunito Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+
+.reddit-mono-<reddit-mono> {
+  font-family: "Reddit Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+html {
+    color: #0D160B;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+
+h1 {
+  color: #00006F;
+}
+
+h2 {
+  color: #635C51;
+}
+
+.container {
+    border: 2px solid #0D160B;
+    padding: 10px;
+    margin: 10px auto;
+}
+  
+.color-container {
+    width: 100%;
+}
+  
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+  
+.navy-blue {
+    background-color: #00006F;
+    color: #ACADBC;
+}
+
+.cool-gray {
+    background-color: #9B9ECE;
+}
+  
+.french-gray {
+    background-color: #ACADBC;
+}
+  
+.walnut-brown {
+    background-color: #635C51;
+}
+
+.night {
+    background-color: #0D160B;
+    color: #ACADBC;
+}
+  
+.font-panel {
+    width: 48%;
+    display: inline-block;
+}
+  
+.font-label {
+    font-size: 20px;
+}
+  
+.regular {
+    font-style: normal;
+}
+  
+.italic {
+    font-style: italic;
+}
+  
+.bold {
+    font-weight: 800;
+}
+  
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+  
+.reddit-mono {
+    font-family: 'Reddit Mono', monospace;
+}
+
+.text-container {
+  width: 100%;
+}
+
+.text-panel {
+  width: 32%;
+  display: inline-block;
+}
+
+.text-panel h1 {
+    font-weight: 800;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #00006F;
+}
+  
+.text-panel h2 {
+    font-weight: 600;
+    font-size: 24px;
+    font-family: 'Reddit Mono', monospace;
+    color: #635C51
+}
+  
+.text-panel p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+}
